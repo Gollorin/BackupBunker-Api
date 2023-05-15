@@ -1,0 +1,5 @@
+﻿1. Kontrola inputu
+
+2. přidat metodu WriteIntoLog -> u usera
+
+3. Daemon nemusí mít cestu!!!

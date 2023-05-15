@@ -1,0 +1,47 @@
+11.05.2023 20:43:49: User with email (aha@gma.cz) was created
+11.05.2023 20:47:49: User with email (new@new.cz) was created
+11.05.2023 20:47:54: One of the user was deleted!
+11.05.2023 20:47:57: One of the user was deleted!
+11.05.2023 21:35:25: User simon@gmail.com loged in!
+11.05.2023 22:59:38: User simon@gmail.com loged in!
+11.05.2023 23:57:16: User simon@gmail.com loged in!
+12.05.2023 0:00:48: User simon@gmail.com loged in!
+12.05.2023 0:01:37: User simon@gmail.com loged in!
+12.05.2023 0:05:24: User simon@gmail.com loged in!
+12.05.2023 0:07:28: User simon@gmail.com loged in!
+12.05.2023 0:08:11: User simon@gmail.com loged in!
+12.05.2023 0:10:20: User simon@gmail.com loged in!
+12.05.2023 0:21:29: User simon@gmail.com loged in!
+12.05.2023 0:36:43: Someone asked for backups!
+12.05.2023 12:10:09: Someone asked for backups!
+12.05.2023 12:11:12: Someone asked for backups!
+12.05.2023 13:34:24: User simon@gmail.com loged in!
+12.05.2023 13:34:32: User simon@gmail.com loged in!
+12.05.2023 13:34:53: Schedule was created!
+12.05.2023 13:35:41: Backup full was created
+12.05.2023 13:36:02: Backup incr was created
+12.05.2023 13:36:32: Backup diff was created
+12.05.2023 13:36:46: Schedule was created!
+12.05.2023 13:36:58: Someone asked for backups!
+12.05.2023 13:47:59: Schedule was created!
+12.05.2023 13:48:32: Backup full1 was created
+12.05.2023 13:48:56: Backup indr1 was created
+12.05.2023 13:49:21: Backup difff1 was created
+12.05.2023 13:49:47: Schedule was created!
+12.05.2023 13:49:55: Someone asked for backups!
+12.05.2023 21:54:13: One of the backups was deleted!
+12.05.2023 21:54:16: One of the backups was deleted!
+12.05.2023 21:54:17: One of the backups was deleted!
+12.05.2023 21:54:20: One of the backups was deleted!
+12.05.2023 21:54:20: One of the backups was deleted!
+12.05.2023 21:54:22: One of the backups was deleted!
+12.05.2023 21:55:57: Backup Full was created
+12.05.2023 21:56:08: Schedule was created!
+12.05.2023 21:56:25: Someone asked for backups!
+12.05.2023 22:22:15: Backup FULLx7 was created
+12.05.2023 22:22:27: Schedule was created!
+12.05.2023 22:22:42: Someone asked for backups!
+13.05.2023 17:43:34: User simon@gmail.com loged in!
+13.05.2023 21:16:14: User simon@gmail.com loged in!
+13.05.2023 21:36:38: User simon@gmail.com loged in!
+13.05.2023 21:37:47: User simon@gmail.com loged in!

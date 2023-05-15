@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ShmofbrfjKH+oo673VB9ZW+ZjPnoRlillJyUc4TRU08=",
+  "Source": "backup-bunker-api",
+  "BasePath": "_content/backup-bunker-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
